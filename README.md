@@ -16,7 +16,7 @@ Binary distribution of module RESTFSTool as part of the JDA framework.
 
 # CourseMan Example
 ## Domain Model
-![The domain model of CourseMan](docs/images/courseman-model.png){width=350}
+![The domain model of CourseMan](docs/images/courseman-model.png){width=200}
 <div align="center">Figure 1. The domain model of CourseMan.</div>
 
 ## Software configurations
