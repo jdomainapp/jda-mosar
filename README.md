@@ -9,11 +9,6 @@ Generating RESTful Full Stack Software
 # Technical report
 [Full version](docs/jda-restful-report-full.pdf) of the paper submitted to the ICISN'22 conference.
 
-# Binary distribution 
-Binary distribution of module RESTFSTool as part of the JDA framework.
-
-[Download link](dist/module-restfstool.jar)
-
 # CourseMan Example
 ## Domain Model
 ![The domain model of CourseMan](docs/images/courseman-model.png)
@@ -27,6 +22,11 @@ Binary distribution of module RESTFSTool as part of the JDA framework.
 - `exceptions`: domain-specific exceptions
 - `backend`: the generated backend (in Spring Boot)
 - `frontend`: the generated frontend (in React.js)
+
+# Binary distribution 
+Binary distribution of module RESTFSTool as part of the JDA framework.
+
+[Download link](dist/module-restfstool.jar)
 
 ## How to execute the generator functions
 
