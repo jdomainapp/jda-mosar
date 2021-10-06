@@ -19,13 +19,14 @@ Binary distribution of module RESTFSTool as part of the JDA framework.
 ![The domain model of CourseMan](docs/images/courseman-model.png)
 <div align="center">Figure 1. The domain model of CourseMan.</div>
 
-## Software configurations
-- the SCC:
-- the MCCs:
+## Source code
+[Source code zip file](dist/example/restfstool-example-courseman.zip)
+- `modules`: the domain model and associated MCCs, organised into modules
+- `software`: the SCC and executable software
+- `utils`: domain-specific utility classes
+- `exceptions`: domain-specific exceptions
+- `backend`: the generated backend (in Spring Boot)
+- `frontend`: the generated frontend (in React.js)
 
 ## How to execute the generator functions
-
-## Generated FrontEnd
-
-## Generated BackEnd
 
