@@ -5,6 +5,7 @@ Generating RESTful Full Stack Software
 | Author | Version | Date 
 | :--: | :--: | :--: |
 | [Duc Minh Le](mailto:lemduc@gmail.com) | 1.0 | 05 Oct 2021 |
+| Contributors: | Ha Thanh Vu, <br/> Binh Hai Do
 
 # Technical report
 [Full version](docs/jda-restful-report-full.pdf) of the paper submitted to the ICISN'22 conference.
