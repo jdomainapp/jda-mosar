@@ -37,9 +37,9 @@ Binary distribution of module RESTFSTool as part of the JDA framework.
 ## How to execute the generator functions
 
 Assume current dir: `/tmp`
-1. Extract the source code zip file to the current dir. This should create the source code dir path explained previously.
+1. Extract the source code zip file to the current dir to create the `src` dir path explained previously.
 2. Delete the pre-generated `backend` and `frontend` packages 
-3. Extract the binary distribution zip file to the current dir. This should create the following directory path: `dist/bin`
+3. Extract the binary distribution zip file to the current dir to create the following directory path: `dist/bin`
 4. Execute the following command to generate the backend and frontend:
 ```
 java -cp ./dist/bin com.hanu.courseman.software.CourseManRFSGenOnly
