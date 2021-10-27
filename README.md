@@ -42,7 +42,7 @@ Assume current dir: `/tmp`
 3. Extract the binary distribution zip file to the current dir to create the following directory path: `dist/bin`
 4. Execute the following command to generate the backend and frontend:
 ```
-java -cp ./dist/bin com.hanu.courseman.software.CourseManRFSGenOnly
+java -cp ./dist/bin org.courseman.software.CourseManRFSGen
 
 ```
 5. The generated source code are saved to the `backend` and `frontend` packages in the source code folder.
