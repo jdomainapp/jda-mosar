@@ -8,7 +8,7 @@ Generating RESTful Full Stack Software
 | Contributors: | Ha Thanh Vu, <br/> Binh Hai Do
 
 # Technical report
-[Extended version](docs/jda-restful-report-full.pdf) of the paper submitted to the ICISN'22 conference.
+[Extended version](https://github.com/jdomainapp/jda-mosar/blob/main/docs/jda-restful-report-full.pdf) of the paper submitted to the ICISN'22 conference.
 
 # CourseMan Example
 ## Domain Model
